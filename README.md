@@ -4,8 +4,10 @@
 原教程是用Arduino来控制的，此处将使用stm32来控制
 
 ## 2 参考资料
-### [B站_3D打印悬浮时钟](https://www.bilibili.com/video/BV1Pv4y1s7A2/?spm_id_from=333.337.search-card.all.click&vd_source=2cf9620c0fc780ec3ddac064e19ef80e)
-### 原作者地址：https://www.instructables.com/Hollow-Clock-4/
+### 2.1 [B站_3D打印悬浮时钟](https://www.bilibili.com/video/BV1Pv4y1s7A2/?spm_id_from=333.337.search-card.all.click&vd_source=2cf9620c0fc780ec3ddac064e19ef80e)
+### 2.2 [STM32在定时器中驱动28BYJ-48步进电机](https://mp.weixin.qq.com/s/i52ZtUOQQqrjE3L7g-ZoaA)
+[B站视频](https://www.bilibili.com/video/BV1YA411G7Xs/?spm_id_from=333.337.search-card.all.click&vd_source=2cf9620c0fc780ec3ddac064e19ef80e)
+### 2.3 原作者地址：https://www.instructables.com/Hollow-Clock-4/
 ### 原教程内容
 电脑上需要下载软件：Arduino IDE
 不懂如何连接开发板的朋友，直接搜索Arduino教程即可，3分钟能学会连接。
